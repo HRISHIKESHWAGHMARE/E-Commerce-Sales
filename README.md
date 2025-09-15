@@ -10,7 +10,7 @@ This project analyzes **10,000+ e-commerce sales records** including customer de
 * **Power BI** → Interactive dashboards and visualization
 * **SQL** → Querying and extracting insights from structured data
 * **Python (Pandas, Matplotlib)** → Exploratory Data Analysis (EDA) and visualization
-* 
+  
 **The dataset contains**:
 * **Order Details**: Order ID, Date, Ship Mode
 * **Customer Data**: Customer ID, Segment, Region
